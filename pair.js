@@ -8,17 +8,16 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+https://github.com/Opaksfire/FIRE-AI
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+*follow our official WhatsApp channel for updates and giveaway * 💭
+https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+https://youtube.com/@firenation-1
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*FIREMD WHATSAPP BOT🔥* 🔥
 `;
 
 const { upload } = require('./mega');
